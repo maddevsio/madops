@@ -1,0 +1,25 @@
+{
+  "translation": {
+    "changeButton": "на русском",
+    "headerText": "DevOps engineers who professionally solve infrastructure problems of the developers teams",
+    "title_1": "We bring to you",
+    "do_item_1": "Implement infrastructures as a code paradigm",
+    "do_item_2": "Set up CI/CD processes",
+    "do_item_3": "Set up monitoring and collect system and application metrics",
+    "do_item_4": "Pay special attention to security issues, follow HIPAA, GDPR and other compliance",
+    "do_item_5": "Implement scaling cost-effective solutions",
+    "do_item_6": "Work with hybrid cloud architecture",
+    "do_item_7": "Consult / Advise on the choice of the appropriate tools",
+    "title_2": "Our tools",
+    "title_3": "We work with 15 big International projects. Most of them are operating in production more than 10 years under high load.",
+    "title_4": "Our Team",
+    "team_1": "Andrew Minkin",
+    "team_2": "Andrew Sapozhnikov",
+    "team_3": "Vasilii Alferov",
+    "team_4": "Vlad Andreev",
+    "team_5": "Marat Muhambetov",
+    "team_6": "Timur Zununbekov",
+    "footer_1": "DevOps team",
+    "footer_2": "All team"
+  }
+}

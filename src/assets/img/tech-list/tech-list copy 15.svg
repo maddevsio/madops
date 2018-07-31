@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="84px" height="117px" viewBox="0 0 84 117" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>tech-list copy 15</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Home-Page-small" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="MadOps_2" transform="translate(-1081.000000, -2881.000000)">
+            <g id="use" transform="translate(60.000000, 2290.000000)">
+                <g id="tech-list" transform="translate(1020.000000, 591.000000)">
+                    <g id="Stacked-Group-2">
+                        <g id="img">
+                            <g id="icons/tech/aws-cloudwatch" transform="translate(3.000000, 0.000000)">
+                                <g id="aws-cloudwatch" transform="translate(6.666667, 0.000000)">
+                                    <polyline id="Shape" fill="#B7CA9D" fill-rule="nonzero" points="70 54.9806897 35.0117578 49.7953103 0 54.9873103 35.0027344 68.073931 70 54.9806897"></polyline>
+                                    <polyline id="Shape" fill="#4B612C" fill-rule="nonzero" points="7.00574219 54.376 12.9201953 56.2411034 13.4591406 55.6237241 13.4591406 13.8714483 12.9201953 13.1583448 7.00574219 15.4408276 7.00574219 54.376"></polyline>
+                                    <polyline id="Shape" fill="#759C3E" fill-rule="nonzero" points="33.8603125 52.5304828 12.9201953 56.2411034 12.9201953 13.1594483 33.8603125 17.9103448 33.8603125 52.5304828"></polyline>
+                                    <polyline id="Shape" fill="#4B612C" fill-rule="nonzero" points="24.5235156 59.8314483 16.3619531 57.2932414 16.3619531 4.11806897 24.5235156 0.00110344828 25.2377344 0.785931034 25.2377344 58.9536552 24.5235156 59.8314483"></polyline>
+                                    <polyline id="Shape" fill="#759C3E" fill-rule="nonzero" points="52.4909766 53.2121379 24.5235156 59.8314483 24.5235156 0 52.4909766 10.9975172 52.4909766 53.2121379"></polyline>
+                                    <polyline id="Shape" fill="#4B612C" fill-rule="nonzero" points="34.9904297 67.5073103 0 54.9873103 0 62.2491034 34.9904297 79.8995862 34.9904297 67.5073103"></polyline>
+                                    <polyline id="Shape" fill="#759C3E" fill-rule="nonzero" points="70 62.2405517 34.9904297 79.8995862 34.9904297 67.5073103 70 54.9806897 70 62.2405517"></polyline>
+                                    <polyline id="Shape" fill="#B7CA9D" fill-rule="nonzero" points="60.1669141 42.9495172 51.6832422 42.9495172 27.4990625 44.6118621 35 46.0068966 60.1669141 42.9495172"></polyline>
+                                    <polyline id="Shape" fill="#4B612C" fill-rule="nonzero" points="27.4990625 60.6637241 34.9967187 62.9329655 35.2124609 62.6987586 35.2061719 45.6369655 34.9904297 45.4278621 27.4990625 44.6118621 27.4990625 60.6637241"></polyline>
+                                    <polyline id="Shape" fill="#759C3E" fill-rule="nonzero" points="60.1669141 42.9495172 34.9904297 45.4267586 34.9967187 62.9329655 60.1669141 55.2885517 60.1669141 42.9495172"></polyline>
+                                </g>
+                            </g>
+                        </g>
+                        <text id="Jenkins" font-family="Solomon-Sans-SemiBold, Solomon Sans SemiBold" font-size="16" font-weight="500" line-spacing="25" letter-spacing="-0.300000012" fill="#000000">
+                            <tspan x="0.50800006" y="108">Cloudwatch</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

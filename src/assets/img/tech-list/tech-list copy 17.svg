@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="96px" height="120px" viewBox="0 0 96 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>tech-list copy 17</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Home-Page-small" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="MadOps_2" transform="translate(-460.000000, -2881.000000)">
+            <g id="use" transform="translate(60.000000, 2290.000000)">
+                <g id="tech-list" transform="translate(397.000000, 591.000000)">
+                    <g id="Stacked-Group-2">
+                        <g id="img" fill="#0069FF">
+                            <g id="icons/tech/DigitalOcean" transform="translate(11.000000, 0.000000)">
+                                <g id="DigitalOcean_-Cloud-Computing,-Simplicity-at-Scale-3">
+                                    <path d="M39.984,80 L39.984,64.6416552 C56.4176552,64.6416552 69.1241379,48.5097931 62.8507586,31.3754483 C60.5266207,25.0289655 55.4217931,19.9671724 49.0228966,17.6634483 C31.7484138,11.4471724 15.488,24.0455172 15.4855172,40.3412414 C15.4855172,40.3412414 15.4838621,40.3451034 15.4816552,40.3451034 L0,40.3451034 C0,14.3787586 25.2929655,-5.83917241 52.7277241,2.65489655 C64.7164138,6.36717241 74.2430345,15.8157241 77.985931,27.705931 C86.5495172,54.9153103 66.1655172,80 39.984,80" id="Shape" fill-rule="nonzero"></path>
+                                    <path d="M40.0193103,64.6808276 L24.5801379,64.6808276 L24.5801379,49.3732414 C24.5801379,49.3732414 24.5815172,49.3702069 24.5831724,49.3702069 L40.0173793,49.3702069 C40.0190345,49.3702069 40.0198621,49.3718621 40.0198621,49.3718621 L40.0198621,64.6808276 L40.0193103,64.6808276 Z M24.5773793,76.4463448 L12.7186207,76.4463448 L12.7153103,76.4430345 L12.7153103,64.6808276 L24.5798621,64.6808276 L24.5798621,76.4430345 L24.5773793,76.4463448 Z M12.7241379,64.6808276 L2.78289655,64.6808276 C2.77875862,64.6808276 2.77572414,64.6775172 2.77572414,64.6775172 L2.77572414,54.8226207 C2.77572414,54.8226207 2.77875862,54.8157241 2.78289655,54.8157241 L12.7166897,54.8157241 C12.7208276,54.8157241 12.7241379,54.8187586 12.7241379,54.8187586 L12.7241379,64.6808276 Z" id="Shape" fill-rule="nonzero"></path>
+                                </g>
+                            </g>
+                        </g>
+                        <text id="Jenkins" font-family="Solomon-Sans-SemiBold, Solomon Sans SemiBold" font-size="16" font-weight="500" line-spacing="25" letter-spacing="-0.300000012" fill="#000000">
+                            <tspan x="2.58200008" y="108">Digital Ocean</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

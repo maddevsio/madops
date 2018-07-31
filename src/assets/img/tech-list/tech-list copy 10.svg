@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="117px" viewBox="0 0 80 117" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>tech-list copy 10</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Home-Page-small" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="MadOps_2" transform="translate(-669.000000, -2660.000000)">
+            <g id="use" transform="translate(60.000000, 2290.000000)">
+                <g id="tech-list" transform="translate(609.000000, 370.000000)">
+                    <g id="Stacked-Group-2">
+                        <g id="img">
+                            <g id="icons/tech/Ansible">
+                                <g id="Group-4">
+                                    <path d="M79.902439,39.9349593 C79.902439,61.9512195 62.0487805,79.804878 40.0325203,79.804878 C18.0162602,79.804878 0.162601626,61.9512195 0.162601626,39.9349593 C0.162601626,17.9186992 18.0162602,0.0650406504 40.0325203,0.0650406504 C62.0487805,0.0650406504 79.902439,17.9186992 79.902439,39.9349593" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+                                    <path d="M59.0243902,56.3252033 L43.1544715,18.1463415 C42.699187,17.0406504 41.7886179,16.4552846 40.6829268,16.4552846 C39.5772358,16.4552846 38.601626,17.0406504 38.1463415,18.1463415 L20.7479675,60.0325203 L26.699187,60.0325203 L33.5934959,42.7642276 L54.1788618,59.3821138 C54.9918699,60.0650407 55.6097561,60.3577236 56.3902439,60.3577236 C57.9512195,60.3577236 59.3170732,59.1869919 59.3170732,57.495935 C59.3170732,57.2357724 59.2195122,56.8130081 59.0243902,56.3252033 Z M40.7154472,25.0081301 L51.0243902,50.4715447 L35.4471545,38.1788618 L40.7154472,25.0081301 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                                </g>
+                            </g>
+                        </g>
+                        <text id="Jenkins" font-family="Solomon-Sans-SemiBold, Solomon Sans SemiBold" font-size="16" font-weight="500" line-spacing="25" letter-spacing="-0.300000012" fill="#000000">
+                            <tspan x="13.962" y="108">Ansible</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

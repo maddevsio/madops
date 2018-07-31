@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="81px" height="107px" viewBox="0 0 81 107" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>tech-list copy 7</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Home-Page-small" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="MadOps_2" transform="translate(-1292.000000, -2670.000000)">
+            <g id="use" transform="translate(60.000000, 2290.000000)">
+                <g id="tech-list" transform="translate(1226.000000, 370.000000)">
+                    <g id="Stacked-Group-2">
+                        <g id="img" fill="#00ACEE">
+                            <g id="icons/tech/Azure" transform="translate(6.500000, 0.000000)">
+                                <g id="azure_1" transform="translate(0.000000, 10.000000)">
+                                    <polygon id="Shape" fill-rule="nonzero" points="44.2931937 0 18.0104712 53.2653061 0 53.2653061 19.895288 19.4897959"></polygon>
+                                    <polygon id="Shape" fill-rule="nonzero" points="46.2827225 4.28571429 36.6492147 31.0204082 55.4973822 53.2653061 18.9528796 60 79.895288 60"></polygon>
+                                </g>
+                            </g>
+                        </g>
+                        <text id="Jenkins" font-family="Solomon-Sans-SemiBold, Solomon Sans SemiBold" font-size="16" font-weight="500" line-spacing="25" letter-spacing="-0.300000012" fill="#000000">
+                            <tspan x="25.658" y="108">Azure</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

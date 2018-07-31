@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="15px" viewBox="0 0 22 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>you</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icons/social/white/you" transform="translate(-1.000000, -4.000000)" fill="#FFFFFF">
+            <g id="you" transform="translate(1.000000, 4.000000)">
+                <path d="M22,11.2323391 L22,3.65345369 C22,3.65345369 22,-1.77635684e-15 18.2074444,-1.77635684e-15 L3.79011111,-1.77635684e-15 C3.79011111,-1.77635684e-15 0,-1.77635684e-15 0,3.65345369 L0,11.2323391 C0,11.2323391 0,14.8846154 3.79011111,14.8846154 L18.2074444,14.8846154 C18.2074444,14.8846154 22,14.8846154 22,11.2323391 Z M15.2704444,7.45290424 L8.06788889,11.5290424 L8.06788889,3.37676609 L15.2704444,7.45290424 Z" id="Fill-1"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="90px" height="138px" viewBox="0 0 90 138" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>coube2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="-40.1200394%" id="linearGradient-1">
+            <stop stop-color="#D0002A" offset="0%"></stop>
+            <stop stop-color="#FF0034" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="0%" id="linearGradient-2">
+            <stop stop-color="#D0002A" offset="0%"></stop>
+            <stop stop-color="#FF0034" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#D0002A" offset="0%"></stop>
+            <stop stop-color="#FF0034" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Home-Page-small" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="MadOps_2" transform="translate(-50.000000, -147.000000)">
+            <g id="coubes" transform="translate(50.000000, 148.000000)">
+                <g id="coube2">
+                    <g transform="translate(1.000000, 0.000000)">
+                        <polygon id="Rectangle-5_Top_Isometric-Copy-36" stroke="url(#linearGradient-1)" fill="#FFFFFF" points="1.90819582e-15 73.2826548 0 28.5 44 56.5 88 28.5 88 73.2826548 44 101.56531"></polygon>
+                        <path d="M44,56 L44,101.502809" id="Path-2" stroke="url(#linearGradient-2)"></path>
+                        <polygon id="Rectangle-5_Top_Isometric-Copy-37" stroke="url(#linearGradient-3)" fill="#FFFFFF" points="0 28.2826548 44 0 88 28.2826548 44 56.5653097"></polygon>
+                    </g>
+                    <g id="fly" transform="translate(0.000000, 86.000000)" stroke="#FF0034">
+                        <path d="M89,0 L89,37.013511" id="Path-3"></path>
+                        <path d="M45,22 L45,39.013511" id="Path-3-Copy"></path>
+                        <path d="M45,43 L45,50.013511" id="Path-3-Copy-3"></path>
+                        <path d="M1,0 L1,37.013511" id="Path-3-Copy-2"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

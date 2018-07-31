@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="610px" viewBox="0 0 1440 610" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>floor</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Home-Page-small" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.300000012">
+        <g id="MadOps_2" transform="translate(0.000000, -93.000000)" stroke="#DCDCDC">
+            <g id="floor" transform="translate(-6.000000, 94.000000)">
+                <polygon id="floor23" points="440 28.5 484 0 528 28.5 484 57"></polygon>
+                <polygon id="floor32" points="792 28.5 836 0 880 28.5 836 57"></polygon>
+                <polygon id="floor40" points="396 57.5 440 29 484 57.5 440 86"></polygon>
+                <polygon id="floor48" points="836 57.5 880 29 924 57.5 880 86"></polygon>
+                <polygon id="floor49" points="748 57.5 792 29 836 57.5 792 86"></polygon>
+                <polygon id="floor60" points="1320 86.5 1364 58 1408 86.5 1364 115"></polygon>
+                <polygon id="floor61" points="1232 86.5 1276 58 1320 86.5 1276 115"></polygon>
+                <polygon id="floor62" points="1144 86.5 1188 58 1232 86.5 1188 115"></polygon>
+                <polygon id="floor68" points="616 86.5 660 58 704 86.5 660 115"></polygon>
+                <polygon id="floor72" points="220 115.5 264 87 308 115.5 264 144"></polygon>
+                <polygon id="floor73" points="308 115.5 352 87 396 115.5 352 144"></polygon>
+                <polygon id="floor82" points="836 115.5 880 87 924 115.5 880 144"></polygon>
+                <polygon id="floor89" points="264 144.5 308 116 352 144.5 308 173"></polygon>
+                <polygon id="floor94" points="1320 144.5 1364 116 1408 144.5 1364 173"></polygon>
+                <polygon id="floor102" points="616 144.5 660 116 704 144.5 660 173"></polygon>
+                <polygon id="floor106" points="220 173.5 264 145 308 173.5 264 202"></polygon>
+                <polygon id="floor107" points="308 173.5 352 145 396 173.5 352 202"></polygon>
+                <polygon id="floor110" points="1364 173.5 1408 145 1452 173.5 1408 202"></polygon>
+                <polygon id="floor124" points="352 202.5 396 174 440 202.5 396 231"></polygon>
+                <polygon id="floor125" points="440 202.5 484 174 528 202.5 484 231"></polygon>
+                <polygon id="floor128" points="1320 202.5 1364 174 1408 202.5 1364 231"></polygon>
+                <polygon id="floor129" points="1232 202.5 1276 174 1320 202.5 1276 231"></polygon>
+                <polygon id="floor132" points="968 202.5 1012 174 1056 202.5 1012 231"></polygon>
+                <polygon id="floor132-copy" points="924 173.5 968 145 1012 173.5 968 202"></polygon>
+                <polygon id="floor132-copy-2" points="836 173.5 880 145 924 173.5 880 202"></polygon>
+                <polygon id="floor141" points="308 231.5 352 203 396 231.5 352 260"></polygon>
+                <polygon id="floor142" points="396 231.5 440 203 484 231.5 440 260"></polygon>
+                <polygon id="floor146" points="1188 231.5 1232 203 1276 231.5 1232 260"></polygon>
+                <polygon id="floor147" points="1100 231.5 1144 203 1188 231.5 1144 260"></polygon>
+                <polygon id="floor148" points="1012 231.5 1056 203 1100 231.5 1056 260"></polygon>
+                <polygon id="floor150" points="836 231.5 880 203 924 231.5 880 260"></polygon>
+                <polygon id="floor151" points="748 231.5 792 203 836 231.5 792 260"></polygon>
+                <polygon id="floor159" points="440 260.5 484 232 528 260.5 484 289"></polygon>
+                <polygon id="floor160" points="528 260.5 572 232 616 260.5 572 289"></polygon>
+                <polygon id="floor162" points="1320 260.5 1364 232 1408 260.5 1364 289"></polygon>
+                <polygon id="floor165" points="1056 260.5 1100 232 1144 260.5 1100 289"></polygon>
+                <polygon id="floor166" points="968 260.5 1012 232 1056 260.5 1012 289"></polygon>
+                <polygon id="floor177" points="484 289.5 528 261 572 289.5 528 318"></polygon>
+                <polygon id="floor181" points="1100 289.5 1144 261 1188 289.5 1144 318"></polygon>
+                <polygon id="floor182" points="1012 289.5 1056 261 1100 289.5 1056 318"></polygon>
+                <polygon id="floor186" points="660 289.5 704 261 748 289.5 704 318"></polygon>
+                <polygon id="floor193" points="440 318.5 484 290 528 318.5 484 347"></polygon>
+                <polygon id="floor196" points="1320 318.5 1364 290 1408 318.5 1364 347"></polygon>
+                <polygon id="floor200" points="968 318.5 1012 290 1056 318.5 1012 347"></polygon>
+                <polygon id="floor202" points="792 318.5 836 290 880 318.5 836 347"></polygon>
+                <polygon id="floor203" points="704 318.5 748 290 792 318.5 748 347"></polygon>
+                <polygon id="floor210" points="396 347.5 440 319 484 347.5 440 376"></polygon>
+                <polygon id="floor216" points="1012 347.5 1056 319 1100 347.5 1056 376"></polygon>
+                <polygon id="floor219" points="748 347.5 792 319 836 347.5 792 376"></polygon>
+                <polygon id="floor220" points="660 347.5 704 319 748 347.5 704 376"></polygon>
+                <polygon id="floor227" points="440 376.5 484 348 528 376.5 484 405"></polygon>
+                <polygon id="floor228" points="528 376.5 572 348 616 376.5 572 405"></polygon>
+                <polygon id="floor232" points="1144 376.5 1188 348 1232 376.5 1188 405"></polygon>
+                <polygon id="floor233" points="1056 376.5 1100 348 1144 376.5 1100 405"></polygon>
+                <polygon id="floor234" points="968 376.5 1012 348 1056 376.5 1012 405"></polygon>
+                <polygon id="floor236" points="792 376.5 836 348 880 376.5 836 405"></polygon>
+                <polygon id="floor237" points="704 376.5 748 348 792 376.5 748 405"></polygon>
+                <polygon id="floor242" points="220 405.5 264 377 308 405.5 264 434"></polygon>
+                <polygon id="floor243" points="308 405.5 352 377 396 405.5 352 434"></polygon>
+                <polygon id="floor244" points="396 405.5 440 377 484 405.5 440 434"></polygon>
+                <polygon id="floor245" points="484 405.5 528 377 572 405.5 528 434"></polygon>
+                <polygon id="floor248" points="1188 405.5 1232 377 1276 405.5 1232 434"></polygon>
+                <polygon id="floor249" points="1100 405.5 1144 377 1188 405.5 1144 434"></polygon>
+                <polygon id="floor250" points="1012 405.5 1056 377 1100 405.5 1056 434"></polygon>
+                <polygon id="floor252" points="836 405.5 880 377 924 405.5 880 434"></polygon>
+                <polygon id="floor253" points="748 405.5 792 377 836 405.5 792 434"></polygon>
+                <polygon id="floor255" points="572 405.5 616 377 660 405.5 616 434"></polygon>
+                <polygon id="floor259" points="264 434.5 308 406 352 434.5 308 463"></polygon>
+                <polygon id="floor262" points="528 434.5 572 406 616 434.5 572 463"></polygon>
+                <polygon id="floor267" points="1056 434.5 1100 406 1144 434.5 1100 463"></polygon>
+                <polygon id="floor271" points="704 434.5 748 406 792 434.5 748 463"></polygon>
+                <polygon id="floor275" points="132 463.5 176 435 220 463.5 176 492"></polygon>
+                <polygon id="floor279" points="484 463.5 528 435 572 463.5 528 492"></polygon>
+                <polygon id="floor283" points="1100 463.5 1144 435 1188 463.5 1144 492"></polygon>
+                <polygon id="floor284" points="1012 463.5 1056 435 1100 463.5 1056 492"></polygon>
+                <polygon id="floor287" points="748 463.5 792 435 836 463.5 792 492"></polygon>
+                <polygon id="floor290" points="0 492.5 44 464 88 492.5 44 521"></polygon>
+                <polygon id="floor291" points="88 492.5 132 464 176 492.5 132 521"></polygon>
+                <polygon id="floor293" points="264 492.5 308 464 352 492.5 308 521"></polygon>
+                <polygon id="floor294" points="352 492.5 396 464 440 492.5 396 521"></polygon>
+                <polygon id="floor300" points="1144 492.5 1188 464 1232 492.5 1188 521"></polygon>
+                <polygon id="floor301" points="1056 492.5 1100 464 1144 492.5 1100 521"></polygon>
+                <polygon id="floor305" points="704 492.5 748 464 792 492.5 748 521"></polygon>
+                <polygon id="floor306" points="616 492.5 660 464 704 492.5 660 521"></polygon>
+                <polygon id="floor308" points="44 521.5 88 493 132 521.5 88 550"></polygon>
+                <polygon id="floor309" points="132 521.5 176 493 220 521.5 176 550"></polygon>
+                <polygon id="floor312" points="352 550.5 396 522 440 550.5 396 579"></polygon>
+                <polygon id="floor312-copy" points="440 550.5 484 522 528 550.5 484 579"></polygon>
+                <polygon id="floor317" points="1100 521.5 1144 493 1188 521.5 1144 550"></polygon>
+                <polygon id="floor318" points="1012 521.5 1056 493 1100 521.5 1056 550"></polygon>
+                <polygon id="floor319" points="924 521.5 968 493 1012 521.5 968 550"></polygon>
+                <polygon id="floor322" points="660 521.5 704 493 748 521.5 704 550"></polygon>
+                <polygon id="floor325" points="88 550.5 132 522 176 550.5 132 579"></polygon>
+                <polygon id="floor327" points="264 550.5 308 522 352 550.5 308 579"></polygon>
+                <polygon id="floor336" points="968 550.5 1012 522 1056 550.5 1012 579"></polygon>
+                <polygon id="floor339" points="704 550.5 748 522 792 550.5 748 579"></polygon>
+                <polygon id="floor340" points="616 550.5 660 522 704 550.5 660 579"></polygon>
+                <polygon id="floor342" points="44 579.5 88 551 132 579.5 88 608"></polygon>
+                <polygon id="floor343" points="132 579.5 176 551 220 579.5 176 608"></polygon>
+                <polygon id="floor344" points="220 579.5 264 551 308 579.5 264 608"></polygon>
+                <polygon id="floor351" points="1100 579.5 1144 551 1188 579.5 1144 608"></polygon>
+                <polygon id="floor353" points="924 579.5 968 551 1012 579.5 968 608"></polygon>
+                <polygon id="floor355" points="748 579.5 792 551 836 579.5 792 608"></polygon>
+                <polygon id="floor356" points="660 579.5 704 551 748 579.5 704 608"></polygon>
+                <polygon id="floor357" points="572 579.5 616 551 660 579.5 616 608"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

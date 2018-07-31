@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="167px" height="345px" viewBox="0 0 167 345" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>coube1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#D0002A" offset="0%"></stop>
+            <stop stop-color="#FF0034" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="100%" x2="0%" y2="0%" id="linearGradient-2">
+            <stop stop-color="#D0002A" offset="0%"></stop>
+            <stop stop-color="#FF0034" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="37.2072884%" id="linearGradient-3">
+            <stop stop-color="#D0002A" offset="0%"></stop>
+            <stop stop-color="#FF0034" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Home-Page-small" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="MadOps_2" transform="translate(-1256.000000, -281.000000)">
+            <g id="coubes" transform="translate(50.000000, 148.000000)">
+                <g id="coube1" transform="translate(1207.000000, 134.000000)">
+                    <g id="Group-7" stroke-linecap="round" stroke-linejoin="round">
+                        <g id="coube1" transform="translate(57.000000, 0.000000)" fill="#FFFFFF">
+                            <polygon id="Rectangle-5_Top_Isometric-Copy-36" stroke="url(#linearGradient-1)" points="1.90819582e-15 73.2826548 0 28.5 44 56.5 88 28.5 88 73.2826548 44 101.56531"></polygon>
+                            <path d="M44,56 L44,101.502809" id="Path-2" stroke="url(#linearGradient-2)"></path>
+                            <polygon id="Rectangle-5_Top_Isometric-Copy-37" stroke="url(#linearGradient-1)" points="0 28.2826548 44 0 88 28.2826548 44 56.5653097"></polygon>
+                        </g>
+                        <g id="coube4" transform="translate(27.000000, 272.000000)" stroke="#FFFFFF">
+                            <polygon id="Rectangle-5_Top_Isometric-Copy-36" fill="url(#linearGradient-3)" points="1.34441069e-15 51.0104754 0 19.8382353 31 39.3284314 62 19.8382353 62 51.0104754 31 70.6974214"></polygon>
+                            <path d="M31,38.9803922 L31,70.653916" id="Path-2"></path>
+                            <polygon id="Rectangle-5_Top_Isometric-Copy-37" fill="url(#linearGradient-1)" points="0 19.686946 31 0 62 19.686946 31 39.373892"></polygon>
+                        </g>
+                        <g id="splash" transform="translate(0.000000, 245.000000)" stroke="#FF0034">
+                            <path d="M0,47 L17.013511,47" id="Path-3-Copy-11"></path>
+                            <path d="M10,22 L24.7341328,30.5067555" id="Path-3-Copy-12"></path>
+                            <path d="M30.1396891,10.1136886 L44.8738219,18.6204441" id="Path-3-Copy-13" transform="translate(37.506756, 14.367066) rotate(30.000000) translate(-37.506756, -14.367066) "></path>
+                            <path d="M58,0 L58,17.013511" id="Path-3-Copy-14"></path>
+                            <g id="Group" transform="translate(91.500000, 27.500000) scale(-1, 1) translate(-91.500000, -27.500000) translate(68.000000, 7.000000)">
+                                <path d="M0,40 L17.013511,40" id="Path-3-Copy-18"></path>
+                                <path d="M10,15 L24.7341328,23.5067555" id="Path-3-Copy-17"></path>
+                                <path d="M30.1396891,3.11368863 L44.8738219,11.6204441" id="Path-3-Copy-16" transform="translate(37.506756, 7.367066) rotate(30.000000) translate(-37.506756, -7.367066) "></path>
+                            </g>
+                        </g>
+                        <path d="M126,68 L165.488862,93.647405 L56,162.5 L166,232.5 L82.5,288.5" id="Rectangle-5_Top_Isometric-Copy-51" stroke="#FF0034" stroke-dasharray="8,8"></path>
+                    </g>
+                    <path d="M125.5,71.8075402 C127.432997,73.0770949 129,71.8676961 129,69.1062723 C129,66.3448486 127.432997,63.3147146 125.5,62.3382787 C123.567003,61.3618428 122,62.5712416 122,65.0395465 C122,67.5078515 123.567003,70.5379854 125.5,71.8075402 Z" id="Oval-2" stroke="#FF0034" fill-opacity="0.343523551" fill="#FF0034" transform="translate(125.500000, 67.155989) scale(-1, 1) translate(-125.500000, -67.155989) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
