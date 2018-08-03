@@ -19,14 +19,13 @@
     methods: {
       set(locale) {
         this.uiTranslationsLoaded = false;
-
+        document.title = locale === 'ru' ?
+          'Mad Ops – Девопс-инженеры, профессионально решающие инфраструктурные проблемы у команд разработчиков\n' :
+          'Mad Ops – DevOps engineers who professionally solve infrastructure problems of the developers teams\n';
         setUiLocale(locale)
           .then(() => {
             Vue.prototype.$t = t;
-
             this.uiTranslationsLoaded = true;
-
-
             switchDocumentLocale(
               locale,
             );
