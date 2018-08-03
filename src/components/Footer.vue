@@ -20,13 +20,13 @@
         </div>
       </div>
       <div class="social-section">
-        <a href="#">
+        <a href="https://github.com/maddevsio" target="_blank" rel="nofollow">
           <img src="./../assets/img/social/wh-git.svg" alt="">
         </a>
-        <a href="#">
+        <a href="https://www.instagram.com/maddevsio/" target="_blank" rel="nofollow">
           <img src="./../assets/img/social/wh-in.svg" alt="">
         </a>
-        <a href="#">
+        <a href="https://blog.maddevs.io/" target="_blank" rel="nofollow">
           <img src="./../assets/img/social/wh-medium.svg" alt="">
         </a>
       </div>

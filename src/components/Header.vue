@@ -12,13 +12,13 @@
       </div>
       <a href="mailto:ops@maddevs.io" class="header-info--action mail-btn">ops@maddevs.io</a>
       <div class="header-info--social">
-        <a href="#">
+        <a href="https://github.com/maddevsio" target="_blank" rel="nofollow">
           <img src="./../assets/img/social/git.svg" alt="">
         </a>
-        <a href="#">
+        <a href="https://www.instagram.com/maddevsio/" target="_blank" rel="nofollow">
           <img src="./../assets/img/social/insta.svg" alt="">
         </a>
-        <a href="#">
+        <a href="https://blog.maddevs.io/" target="_blank" rel="nofollow">
           <img src="./../assets/img/social/medium.svg" alt="">
         </a>
       </div>
