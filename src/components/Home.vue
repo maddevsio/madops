@@ -109,43 +109,40 @@
       <div class="section-title projects-title">{{ $t("title_3") }}</div>
       <div class="projects-wrap">
         <div class="projects-item">
-          <img src="./../assets/img/projects/veeqo-logo.svg" alt="">
-        </div>
-        <div class="projects-item">
-          <img src="./../assets/img/projects/zentist.svg" alt="">
-        </div>
-        <div class="projects-item">
-          <img src="./../assets/img/projects/localize.svg" alt="">
-        </div>
-        <div class="projects-item">
-          <img src="./../assets/img/projects/eatigo.svg" alt="">
-        </div>
-        <div class="projects-item">
-          <img src="./../assets/img/projects/scento.svg" alt="">
-        </div>
-        <div class="projects-item">
           <img src="./../assets/img/projects/namba.svg" alt="">
-        </div>
-        <div class="projects-item">
-          <img src="./../assets/img/projects/yourcast.svg" alt="">
-        </div>
-        <div class="projects-item">
-          <img src="./../assets/img/projects/iotsploit.svg" alt="">
-        </div>
-        <div class="projects-item">
-          <img src="./../assets/img/projects/kaf.svg" alt="">
         </div>
         <div class="projects-item">
           <img src="./../assets/img/projects/namba-taxi.svg" alt="">
         </div>
         <div class="projects-item">
+          <img src="./../assets/img/projects/nappy.svg" alt="">
+        </div>
+        <div class="projects-item">
+          <img src="./../assets/img/projects/veeqo-logo.svg" alt="">
+        </div>
+        <div class="projects-item">
+          <img src="./../assets/img/projects/socialshop.svg" alt="">
+        </div>
+        <div class="projects-item">
+          <img src="./../assets/img/projects/zentist.svg" alt="">
+        </div>
+        <div class="projects-item">
           <img src="./../assets/img/projects/nambafood.svg" alt="">
         </div>
         <div class="projects-item">
-          <img src="./../assets/img/projects/silkroadexplore.svg" alt="">
+          <img src="./../assets/img/projects/teacherly.svg" alt="">
         </div>
         <div class="projects-item">
-          <img src="./../assets/img/projects/besmart.svg" alt="">
+          <img src="./../assets/img/projects/Diesel.svg" alt="">
+        </div>
+        <div class="projects-item">
+          <img src="./../assets/img/projects/kaf.svg" alt="">
+        </div>
+        <div class="projects-item">
+          <img src="./../assets/img/projects/picd.svg" alt="">
+        </div>
+        <div class="projects-item">
+          <img src="./../assets/img/projects/iotsploit.svg" alt="">
         </div>
       </div>
     </section>

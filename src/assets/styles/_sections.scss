@@ -224,6 +224,9 @@
     align-items: center;
     justify-content: space-around;
     margin: 0 0 100px;
+    img {
+      opacity: 0.5;
+    }
     @media screen and (max-width: 768px){
       max-width: 150px;
       margin: 0 10px 80px;
