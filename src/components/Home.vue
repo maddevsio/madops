@@ -130,6 +130,9 @@
           <img src="./../assets/img/projects/nambafood.svg" alt="">
         </div>
         <div class="projects-item">
+          <img src="./../assets/img/projects/zofice.svg" alt="">
+        </div>
+        <div class="projects-item">
           <img src="./../assets/img/projects/teacherly.svg" alt="">
         </div>
         <div class="projects-item">
