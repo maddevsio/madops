@@ -12,7 +12,7 @@ Vue.component('Header', Header);
 Vue.component('Footer', Footer);
 
 Vue.use(VueAnalytics, {
-  id: 'UA-122918926-1',
+  id: 'UA-83208754-7',
   router,
 });
 /* eslint-disable no-new */
