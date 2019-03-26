@@ -194,6 +194,20 @@
           </picture>
           <div class="team-item--name">{{$t("team_6")}}</div>
         </div>
+        <div class="team-item">
+          <picture>
+            <source srcset="./../assets/img/team-card/7.jpg, ./../assets/img/team-card/7@2x.jpg 2x">
+            <img srcset="./../assets/img/team-card/7.jpg, ./../assets/img/team-card/7@2x.jpg 2x" alt="">
+          </picture>
+          <div class="team-item--name">{{$t("team_7")}}</div>
+        </div>
+        <div class="team-item">
+          <picture>
+            <source srcset="./../assets/img/team-card/8.jpg, ./../assets/img/team-card/8@2x.jpg 2x">
+            <img srcset="./../assets/img/team-card/8.jpg, ./../assets/img/team-card/8@2x.jpg 2x" alt="">
+          </picture>
+          <div class="team-item--name">{{$t("team_8")}}</div>
+        </div>
       </div>
     </section>
   </main>
