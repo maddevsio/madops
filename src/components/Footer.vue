@@ -14,7 +14,7 @@
         <div class="footer-section--block">
           <a href="https://maddevs.io" class="footer-section--logo"><img src="./../assets/img/logo/MaddevsLogo.svg" alt=""></a>
           <div class="footer-section--title">{{ $t("footer_2") }}</div>
-          <a href="https://maddevs.io" class="footer-section--site maddevs-section-color">www.maddevs.io</a>
+          <a href="https://maddevs.io" class="footer-section--site maddevs-section-color">maddevs.io</a>
           <a href="tel:996555429055" class="footer-section--phone">+996 555 429 055</a>
           <a href="mailto:rock@maddevs.io" class="footer-section--mail mail-btn">rock@maddevs.io</a>
         </div>
@@ -32,7 +32,7 @@
       </div>
     </section>
     <div class="sub-footer">
-      © Mad Devs🤘2018
+      © Mad Devs🤘{{ year }}
     </div>
   </footer>
 
@@ -41,6 +41,14 @@
 <script>
   export default {
     name: 'Footer',
+    data() {
+      return {
+        year: 0,
+      };
+    },
+    mounted() {
+      this.year = new Date().getFullYear();
+    },
   };
 </script>
 
