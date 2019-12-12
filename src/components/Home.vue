@@ -154,22 +154,22 @@
       <div class="team-wrap">
         <div class="team-item">
           <picture>
-            <source srcset="./../assets/img/team-card/1.jpg, ./../assets/img/team-card/1@2.jpg 2x">
-            <img srcset="./../assets/img/team-card/1.jpg, ./../assets/img/team-card/1@2.jpg 2x" alt="">
+            <source srcset="./../assets/img/team-card/1.jpg, ./../assets/img/team-card/1@2x.jpg 2x">
+            <img srcset="./../assets/img/team-card/1.jpg, ./../assets/img/team-card/1@2x.jpg 2x" alt="">
           </picture>
           <div class="team-item--name">{{$t("team_1")}}</div>
         </div>
         <div class="team-item">
           <picture>
-            <source srcset="./../assets/img/team-card/3.jpg, ./../assets/img/team-card/3@2.jpg 2x">
-            <img srcset="./../assets/img/team-card/3.jpg, ./../assets/img/team-card/3@2.jpg 2x" alt="">
+            <source srcset="./../assets/img/team-card/3.jpg, ./../assets/img/team-card/3@2x.jpg 2x">
+            <img srcset="./../assets/img/team-card/3.jpg, ./../assets/img/team-card/3@2x.jpg 2x" alt="">
           </picture>
           <div class="team-item--name">{{$t("team_2")}}</div>
         </div>
         <div class="team-item">
           <picture>
-            <source srcset="./../assets/img/team-card/6.jpg, ./../assets/img/team-card/6@2.jpg 2x">
-            <img srcset="./../assets/img/team-card/6.jpg, ./../assets/img/team-card/6@2.jpg 2x" alt="">
+            <source srcset="./../assets/img/team-card/6.jpg, ./../assets/img/team-card/6@2x.jpg 2x">
+            <img srcset="./../assets/img/team-card/6.jpg, ./../assets/img/team-card/6@2x.jpg 2x" alt="">
           </picture>
           <div class="team-item--name">{{$t("team_3")}}</div>
         </div>
@@ -189,8 +189,8 @@
         </div>
         <div class="team-item">
           <picture>
-            <source srcset="./../assets/img/team-card/2.jpg, ./../assets/img/team-card/2@2.jpg 2x">
-            <img srcset="./../assets/img/team-card/2.jpg, ./../assets/img/team-card/2@2.jpg 2x" alt="">
+            <source srcset="./../assets/img/team-card/2.jpg, ./../assets/img/team-card/2@2x.jpg 2x">
+            <img srcset="./../assets/img/team-card/2.jpg, ./../assets/img/team-card/2@2x.jpg 2x" alt="">
           </picture>
           <div class="team-item--name">{{$t("team_6")}}</div>
         </div>
@@ -207,6 +207,13 @@
             <img srcset="./../assets/img/team-card/8.jpg, ./../assets/img/team-card/8@2x.jpg 2x" alt="">
           </picture>
           <div class="team-item--name">{{$t("team_8")}}</div>
+        </div>
+        <div class="team-item">
+          <picture>
+            <source srcset="./../assets/img/team-card/9.jpg, ./../assets/img/team-card/9@2x.jpg 2x">
+            <img srcset="./../assets/img/team-card/9.jpg, ./../assets/img/team-card/9@2x.jpg 2x" alt="">
+          </picture>
+          <div class="team-item--name">{{$t("team_9")}}</div>
         </div>
       </div>
     </section>
