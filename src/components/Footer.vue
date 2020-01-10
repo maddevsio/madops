@@ -32,7 +32,7 @@
       </div>
     </section>
     <div class="sub-footer">
-      © Mad Devs🤘{{ year }}
+      © Mad Devs <img src="../assets/img/horns.png" alt=""> {{ year }}
     </div>
   </footer>
 
@@ -52,4 +52,9 @@
   };
 </script>
 
-<style scoped></style>
+<style scoped>
+  .sub-footer img {
+    width: 15px;
+    height: 15px;
+  }
+</style>
