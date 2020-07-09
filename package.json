@@ -13,8 +13,8 @@
   },
   "dependencies": {
     "express": "^4.16.2",
-    "i18next": "^11.6.0",
-    "lodash": "^4.17.12",
+    "i18next": "^19.5.5",
+    "lodash": "^4.17.16",
     "node-sass": "^4.13.1",
     "npm": "^6.4.0",
     "sass-loader": "^7.1.0",
