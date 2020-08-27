@@ -14,7 +14,7 @@
   "dependencies": {
     "express": "^4.16.2",
     "i18next": "^11.6.0",
-    "lodash": "^4.17.12",
+    "lodash": "^4.17.17",
     "node-sass": "^4.13.1",
     "npm": "^6.4.0",
     "sass-loader": "^7.1.0",
