@@ -149,7 +149,9 @@
         </div>
       </div>
     </section>
-    <section class="team">
+
+    <!-- NOTE: This section is temporarily commented https://github.com/maddevsio/madops/issues/26 -->
+    <!-- <section class="team">
       <div class="section-title team-title">{{ $t("title_4") }}</div>
       <div class="team-wrap">
         <div class="team-item">
@@ -216,7 +218,7 @@
           <div class="team-item--name">{{$t("team_9")}}</div>
         </div>
       </div>
-    </section>
+    </section> -->
   </main>
 </template>
 
