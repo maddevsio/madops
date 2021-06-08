@@ -9,12 +9,17 @@
 </template>
 
 <script>
+  import initIntercom from '@/config/intercom';
   import Localizer from './components/Localizer';
 
   export default {
     name: 'App',
     components: {
       Localizer,
+    },
+
+    mounted() {
+      initIntercom();
     },
   };
 </script>
