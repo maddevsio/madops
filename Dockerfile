@@ -9,7 +9,7 @@ RUN npm install
 COPY --chown=node:node . .
 RUN npm run build
 
-EXPOSE 8080
+EXPOSE 5000
 USER node
 
 CMD [ "node", "server.js" ]
