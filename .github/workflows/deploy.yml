@@ -39,7 +39,7 @@ jobs:
     #   env:
     #     SNYK_TOKEN: ${{ secrets.SNYK_TOKEN }}
     #   with:
-    #     image: maddevsio/maddevsio:${{ env.SHORT_SHA }}
+    #     image: maddevsio/madopsio:${{ env.SHORT_SHA }}
 
     - name: DigitalOcean App Platform deployment
       uses: digitalocean/app_action@v1.1.4 # replace this with current version from https://github.com/digitalocean/app_action/releases
