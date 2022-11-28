@@ -1,14 +1,14 @@
-name: Staging deployment
+name: Production deployment
 
 on:
   push:
     branches:
       - feature/migration_to_DO
+      - master
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    environment: madops-staging
 
     steps:
     - name: Prepare variables
