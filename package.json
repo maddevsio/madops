@@ -12,7 +12,7 @@
     "heroku-postbuild": "npm run build"
   },
   "dependencies": {
-    "express": "^4.16.2",
+    "express": "^4.17.3",
     "i18next": "^11.6.0",
     "lodash": "^4.17.12",
     "npm": "^6.4.0",
